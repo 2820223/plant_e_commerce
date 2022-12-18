@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">plant_e_commerce</string>
+    <string name="offer">Exclusive \n offer</string>
+    <string name="aksiya">Get your 1st plant \n 60% off</string>
+    <string name="monst">Monstera \nAdansonii</string>
+    <string name="size"><b>5"</b> h</string>
+    <string name="about">The Monstera Adansonii grows best in a well-draining\nAroid mix using bark, perlite, peat moss, and charcoal.\nKeep your plant in bright indirect light and humidity\nabove 60%. When watering, make sure that the potting\nmix of your Adansonii remains slightly moist </string>
+</resources>
